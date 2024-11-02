@@ -1,0 +1,79 @@
+/* Reset de márgenes y fuente */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, sans-serif;
+}
+
+/* Estilo del cuerpo */
+body {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #f4f4f9;
+    color: #333;
+}
+
+/* Encabezado */
+header {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+header h1 {
+    font-size: 2em;
+    color: #3498db;
+}
+
+header p {
+    font-size: 1em;
+    color: #666;
+}
+
+header a {
+    color: #3498db;
+    text-decoration: none;
+}
+
+/* Secciones */
+section {
+    margin-bottom: 20px;
+}
+
+section h2 {
+    border-bottom: 2px solid #3498db;
+    padding-bottom: 5px;
+    margin-bottom: 10px;
+    font-size: 1.5em;
+    color: #333;
+}
+
+section p,
+section ul {
+    font-size: 1em;
+    line-height: 1.6;
+    color: #555;
+}
+
+section ul li {
+    margin-left: 20px;
+}
+
+/* Estilos de enlaces */
+a {
+    color: #3498db;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+/* Pie de página */
+footer {
+    text-align: center;
+    margin-top: 20px;
+    font-size: 0.9em;
+    color: #666;
+}
