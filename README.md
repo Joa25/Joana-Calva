@@ -1,47 +1,62 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Currículum de [Tu Nombre]</title>
+    <link rel="stylesheet" href="styles.css"> <!-- Archivo CSS externo -->
+</head>
+<body>
 
-# 🌟 Mi nombre es Joana Calva Muñoz 
-![foto (1)](https://github.com/user-attachments/assets/c90d5ed0-e9be-4ac9-990d-390f502ede49)
+    <header>
+        <h1>[Tu Nombre Completo]</h1>
+        <p>Desarrollador de Software | Ingeniero de Datos</p>
+        <p>📍 Ciudad, País</p>
+        <p>📧 <a href="mailto:tuemail@ejemplo.com">tuemail@ejemplo.com</a> | 💼 <a href="https://linkedin.com/in/tu-perfil">LinkedIn</a> | <a href="https://github.com/tu-usuario">GitHub</a></p>
+    </header>
 
-Soy estudiante de la Universidad Tecnologica de Tlaxcala 
-**Rol Profesional (por ejemplo, Desarrollador de Software, Ingeniero en Tecnologias de la Informacion Area Entornos Virtuales y Negocios Digitales )**  
-📍 Apizaco, Talxcala  
-📧 calvajoana66@gmail.com  
-💼 GitHub(https://github.com/Joa25)
+    <section>
+        <h2>Perfil Profesional</h2>
+        <p>Descripción breve sobre ti, tus habilidades y objetivos profesionales.</p>
+    </section>
 
----
+    <section>
+        <h2>Experiencia Profesional</h2>
+        <h3>Empresa XYZ</h3>
+        <p>Puesto | Mes Año - Mes Año</p>
+        <ul>
+            <li>Logro 1: Breve descripción del logro o proyecto.</li>
+            <li>Logro 2: Breve descripción del logro o proyecto.</li>
+        </ul>
+    </section>
 
-## 📝 Perfil Profesional
+    <section>
+        <h2>Educación</h2>
+        <ul>
+            <li>Nombre del Título - Universidad, Año de finalización</li>
+            <li>Certificación relevante, Fecha</li>
+        </ul>
+    </section>
 
-Soy un profesional de [área de experiencia] con experiencia en [habilidades clave] y pasión por [intereses profesionales]. Tengo un enfoque orientado a resultados y me destaco en la resolución de problemas, así como en el trabajo en equipo.
+    <section>
+        <h2>Habilidades</h2>
+        <ul>
+            <li>Python</li>
+            <li>JavaScript</li>
+            <li>Git</li>
+        </ul>
+    </section>
 
-## 💼 Experiencia
+    <section>
+        <h2>Proyectos Destacados</h2>
+        <h3><a href="https://github.com/tu-usuario/proyecto1">Proyecto 1</a></h3>
+        <p>Descripción del proyecto, tecnologías utilizadas, y logros.</p>
+    </section>
 
-### FM Centro 100.3  
-**Proceso de Estadia** | *Mayo-2023 -Agosto-2023*  
-- Logro 1: El manejo de nuevas tecnologias y saber como se trabaja en una radiodifusora 
-- Logro 2: Dentro del proyecto realizado, logramos visualizar el como la evolucion de la tecnologia esta abarcando todo lo que nos rodea.
-- 
+    <footer>
+        <p>📬 Contacto: <a href="mailto:tuemail@ejemplo.com">tuemail@ejemplo.com</a></p>
+    </footer>
 
-## 🎓 Educación
+</body>
+</html>
 
-- **Tecnico Super universitario en tecnologias de la informacion area entornos virtuales y negocios digitales**
--  - Universidad Tecnologica de Tlaxcala, *2021-2023*
-- **Tecnologias emergentes**, *06 de Septiembre 2024*
-
-## 💻 Habilidades
-
-- **Lenguajes de Programación**: Python, JavaScript, SQL,C++ y PHP
-- **Tecnologías**: Analytics,Inteligencia Artificial, Industria 4.0. y Unity
-- **Habilidades Blandas**: Trabajo en equipo, Comunicación, Adaptabilidad, Empatia, Liderazgo, Creatividad
-
-## 🚀 Proyectos Destacados
-
-- **[Nombre del Proyecto 1](https://github.com/tu-usuario/proyecto1)**  
-  Breve descripción del proyecto, las tecnologías utilizadas y logros.
-
-- **[Nombre del Proyecto 2](https://github.com/tu-usuario/proyecto2)**  
-  Breve descripción del proyecto, las tecnologías utilizadas y logros.
-
-## 📬 Contacto
-
-Puedes contactarme en [correo electrónico](calvajoana66@gmail.com) o a través de [Telefono](2412792719).
