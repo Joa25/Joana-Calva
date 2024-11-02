@@ -1,3 +1,4 @@
+<link rel="stylesheet" href="styles.css">
 # 🌟 Mi nombre es Joana Calva Muñoz 
 ![foto (1)](https://github.com/user-attachments/assets/c90d5ed0-e9be-4ac9-990d-390f502ede49)
 
