@@ -1,5 +1,6 @@
-# Joana-Calva
 # 🌟 Mi nombre es Joana Calva Muñoz 
+![foto (1)](https://github.com/user-attachments/assets/c90d5ed0-e9be-4ac9-990d-390f502ede49)
+
 Soy estudiante de la Universidad Tecnologica de Tlaxcala 
 **Rol Profesional (por ejemplo, Desarrollador de Software, Ingeniero en Tecnologias de la Informacion Area Entornos Virtuales y Negocios Digitales )**  
 📍 Apizaco, Talxcala  
