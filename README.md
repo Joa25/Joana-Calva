@@ -30,8 +30,8 @@ Soy una persona creativa, con experiencia en diseño gráfico, me gusta mucho cr
 
 ## 🚀 Proyectos Destacados
 
-- **[Nombre del Proyecto 1](https://github.com/tu-usuario/proyecto1)**  
-  Breve descripción del proyecto, las tecnologías utilizadas y logros.
+- **[Proyectos Modelados 3D](https://drive.google.com/drive/folders/148peTyRtuIWgV0pE9VlB9GuQxaXRqJ4t?usp=sharing)**  
+  Los modelos 3D fueron caracteristicos de a la tematica de Dia de Muertos y Navidad, fueron creadas con el software Blander y cumplio su objetivo de mostrar que es lo que podemos realizar dentro de clase.
 
 - **[Nombre del Proyecto 2](https://github.com/tu-usuario/proyecto2)**  
   Breve descripción del proyecto, las tecnologías utilizadas y logros.
