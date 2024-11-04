@@ -39,5 +39,5 @@ Soy una persona creativa, con experiencia en diseño gráfico, me gusta mucho cr
 ## 📬 Contacto
 
 Puedes contactarme en:
-**💻[correo electrónico](calvajoana66@gmail.com)**
-**📞[Telefono](2412792719).**
+**💻(calvajoana66@gmail.com)**
+**📞(2412792719).**
