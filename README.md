@@ -3,18 +3,22 @@
 </div> 
 ![Tarjeta de presentacion joana](https://github.com/user-attachments/assets/f961902f-e798-4a83-b4fe-96ad0ee96594)
 
+# 🏫 Formación academica
+<br>
+        <ul>
+            <li>Grado Técnico Superior Universitario en Tecnologias de la Informacion Area Entornos Virtuales y Negocios Digitales</li>
+            <li>Universidad Tecnológica de Tlaxcala</li>
+            <li>El Carmen Xalpatlahuaya s/n, 90513 Huamantla, Tlax.</li>
+            
+        </ul>
+    </li
+    
+    #Acerca de mí
+Soy creativo e imaginativo, con experiencia en diseño gráfico y en diseño UX/UI, capaz de plasar ideas en visuales agradables para el público. Soy 100% activo al escuchar ideas y propuestas para un mejor desempeño y formar ideas craativas, con capacidad de autocrítica y con facilidad de aprender cosas nuevas para lograr un mejor desenvolvimiento. Considero que soy puntual, responsable, amigable, con facilidad de trabajo en equipo, abierto al diálogo y a proponer ideas o mejoras para futuros proyectos.
 
-Soy estudiante de la Universidad Tecnologica de Tlaxcala 
-**Rol Profesional (por ejemplo, Desarrollador de Software, Ingeniero en Tecnologias de la Informacion Area Entornos Virtuales y Negocios Digitales )**  
 📍 Apizaco, Talxcala  
 📧 calvajoana66@gmail.com  
 💼 GitHub(https://github.com/Joa25)
-
----
-
-## 📝 Perfil Profesional
-
-Soy un profesional de [área de experiencia] con experiencia en [habilidades clave] y pasión por [intereses profesionales]. Tengo un enfoque orientado a resultados y me destaco en la resolución de problemas, así como en el trabajo en equipo.
 
 ## 💼 Experiencia
 
