@@ -1,8 +1,8 @@
 <div align="center">
-    <h1 align="center">¡Hola Bienvenido! :EMOJICODE:👋🏼: </h1>
-</div>
-<h2 align="center">Bienvenido a mi perfil profesional 🎊 </h2># 🌟 
-![foto (1)](https://github.com/user-attachments/assets/c90d5ed0-e9be-4ac9-990d-390f502ede49)
+    <h1 align="center">¡Hola Bienvenido a mi perfil profesional!👋🏼 </h1>
+</div> 
+![Tarjeta de presentacion joana](https://github.com/user-attachments/assets/f961902f-e798-4a83-b4fe-96ad0ee96594)
+
 
 Soy estudiante de la Universidad Tecnologica de Tlaxcala 
 **Rol Profesional (por ejemplo, Desarrollador de Software, Ingeniero en Tecnologias de la Informacion Area Entornos Virtuales y Negocios Digitales )**  
