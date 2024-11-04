@@ -1,4 +1,7 @@
-# 🌟 Mi nombre es Joana Calva Muñoz 
+<div align="center">
+    <h1 align="center">¡Hola Bienvenido! :EMOJICODE:👋🏼: </h1>
+</div>
+<h2 align="center">Bienvenido a mi perfil profesional 🎊 </h2># 🌟 
 ![foto (1)](https://github.com/user-attachments/assets/c90d5ed0-e9be-4ac9-990d-390f502ede49)
 
 Soy estudiante de la Universidad Tecnologica de Tlaxcala 
