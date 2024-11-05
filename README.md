@@ -42,7 +42,7 @@ Soy una persona creativa, con experiencia en diseño gráfico, me gusta mucho cr
    En los videojuegos mostramos a un enemigo, del cual tienes que huir para poder entrar a varios niveles, o que unos te disparen y tienes que huir para poder 
    salvarte, se creo con Unity Hub como un video juego.
 
-  -**📃[Analisis de Datos]()**
+- **📃[Analisis de Datos]()**
   El analisis de datos es importante en un conjunto de datos para saber lo que es importante destacar, como por ejemplo el numero de ventas de un cierto producto 
   en especifico o el total de  ventas por mes o por año.
 
