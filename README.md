@@ -1,14 +1,13 @@
 <div align="center">
     <h1 align="center">¡Hola Bienvenido a mi perfil profesional!👋🏼 </h1>
 </div> 
-<p align="center"><img src="![Tarjeta de presentacion joana](https://github.com/user-attachments/assets/9e201381-8a08-44ac-aa66-eb627fce74f0)
-"/></p>
+<p align="center"><img src="![Tarjeta de presentacion joana](https://github.com/user-attachments/assets/9e201381-8a08-44ac-aa66-eb627fce74f0)"/></p>
 # 🎓 Formación academica
 <br>
         <ul>
             <li>Grado Técnico Superior Universitario en Tecnologias de la Informacion Area Entornos Virtuales y Negocios Digitales</li>
-            <li>Universidad Tecnológica de Tlaxcala</li>
-            <li>El Carmen Xalpatlahuaya s/n, 90513 Huamantla, Tlax.</li>
+            Universidad Tecnológica de Tlaxcala
+            El Carmen Xalpatlahuaya s/n, 90513 Huamantla, Tlax.
         </ul>
     
 ## 😊Acerca de mí
