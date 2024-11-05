@@ -1,13 +1,13 @@
 <div align="center">
     <h1 align="center">¡Hola Bienvenido a mi perfil profesional!👋🏼 </h1>
 </div> 
-<p align="center"><img src="![Tarjeta de presentacion joana](https://github.com/user-attachments/assets/9e201381-8a08-44ac-aa66-eb627fce74f0)"/></p>
+<p align="center"><img src="![Tarjeta de presentacion joana](https://github.com/user-attachments/assets/b7cb99d9-6be6-47fd-8527-88a7204fd378)"/></p>
 # 🎓 Formación academica
 <br>
         <ul>
-            <li>Grado Técnico Superior Universitario en Tecnologias de la Informacion Area Entornos Virtuales y Negocios Digitales</li>
+            <li>Grado: Técnico Superior Universitario en Tecnologias de la Informacion Area Entornos Virtuales y Negocios Digitales</li>
             Universidad Tecnológica de Tlaxcala
-            El Carmen Xalpatlahuaya s/n, 90513 Huamantla, Tlax.
+            -El Carmen Xalpatlahuaya s/n, 90513 Huamantla, Tlax.
         </ul>
     
 ## 😊Acerca de mí
@@ -43,14 +43,13 @@ Soy una persona creativa, con experiencia en diseño gráfico, me gusta mucho cr
    salvarte, se creo con Unity Hub como un video juego.
 
   -**📃[Analisis de Datos]()**
-  El analisis de datos es importante en un conjunto de datos para saber lo que es importante destacar, como por ejemplo elnumero de ventas de un cierto producto en 
-  especifico o el total de  ventas por mes o por año
+  El analisis de datos es importante en un conjunto de datos para saber lo que es importante destacar, como por ejemplo el numero de ventas de un cierto producto 
+  en especifico o el total de  ventas por mes o por año.
 
-   
 
 ## 📬 Contacto
 
 Puedes contactarme en:
-**💻Correo: calvajoana66@gmail.com**
-**📞Teléfono: 241-279-2719.**
+-**💻Correo: calvajoana66@gmail.com**
+-**📞Teléfono: 241-279-2719.**
 
