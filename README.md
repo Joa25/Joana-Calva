@@ -31,7 +31,8 @@ Soy una persona creativa, con experiencia en diseño gráfico, me gusta mucho cr
 ## 🚀 Proyectos Destacados
 
 - **👩‍💻[Proyectos Modelados 3D](https://drive.google.com/drive/folders/148peTyRtuIWgV0pE9VlB9GuQxaXRqJ4t?usp=sharing)**  
-  Los modelos 3D fueron caracteristicos de a la tematica de Dia de Muertos y Navidad, fueron creadas con el software Blander y cumplio su objetivo de mostrar que es lo que podemos realizar dentro de clase.
+  Los modelos 3D fueron caracteristicos de a la tematica de Dia de Muertos y Navidad, fueron creadas con el software Blander y cumplio su objetivo de mostrar que 
+  es lo que podemos realizar dentro de clase.
 
 - **😎[Realidad Virtual](https://drive.google.com/drive/folders/1IJHho1OQ5o9lD0qmmuTUirNjsQnU5r3F?usp=sharing)**  
   Breve descripción del proyecto, las tecnologías utilizadas y logros.
@@ -39,15 +40,18 @@ Soy una persona creativa, con experiencia en diseño gráfico, me gusta mucho cr
   virtualizo en un motor de video juegos Unity Hub.
   
  - **🎮[Videojuegos](https://drive.google.com/drive/folders/1XtHBvfIUUkin7MnJOgeVVbiv_W_383Sh?usp=sharing)**
-   En los videojuegos mostramos a un enemigo, del cual tienes que huir para poder entrar a varios niveles, o que unos te disparen y tienes que huir para poder salvarte, se creo con Unity Hub como un video juego.
+   En los videojuegos mostramos a un enemigo, del cual tienes que huir para poder entrar a varios niveles, o que unos te disparen y tienes que huir para poder 
+   salvarte, se creo con Unity Hub como un video juego.
 
-- **📃[Analisis de Datos]()**
-  El analisis de datos es importante en un conjunto de datos para saber lo que es importante destacar, como por ejemplo elnumero de ventas de un cierto producto en especifico o el total de  ventas por mes o por año
+  -**📃[Analisis de Datos]()**
+  El analisis de datos es importante en un conjunto de datos para saber lo que es importante destacar, como por ejemplo elnumero de ventas de un cierto producto en 
+  especifico o el total de  ventas por mes o por año
 
    
 
 ## 📬 Contacto
 
 Puedes contactarme en:
-**💻(calvajoana66@gmail.com)**
-**📞(2412792719).**
+**💻Correo: calvajoana66@gmail.com**
+**📞Teléfono: 241-279-2719.**
+
