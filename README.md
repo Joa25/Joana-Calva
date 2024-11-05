@@ -2,6 +2,11 @@
     <h1 align="center">¡Hola Bienvenido a mi perfil profesional!👋🏼 </h1>
 </div> 
 <p align="center"><img src="![Tarjeta de presentacion joana](https://github.com/user-attachments/assets/b7cb99d9-6be6-47fd-8527-88a7204fd378)"/></p>
+#👩🏻‍💼 Información Personal
+- **Nombre**: Joana Calva Muñoz
+- **Edad**: 21 años
+- **Sexo**: Femenino
+
 # 🎓 Formación academica
 <br>
         <ul>
@@ -10,17 +15,17 @@
             <li>El Carmen Xalpatlahuaya s/n, 90513 Huamantla, Tlax.</li>
         </ul>
     
-## 😊Acerca de mí
-Soy una persona creativa, con experiencia en diseño gráfico, me gusta mucho crear cosas nuevas capaz de crear, elaborar cosas nuevas e impresionantes para que sean  agradables para el público. Me gusta escuchar nuevas ideas y propuestas para un mejor desempeño. Suelo ser una persona con mucha ocurrencia al decir las cosas pero con la  capacidad de aprender cosas nuevas para lograr cosas increibles. Considero que soy responsable, humilde, respetuosa y con mucha capacidad de elaborar cosas increíbles.
+# 😊Acerca de mí
+Soy una persona creativa, con experiencia en diseño gráfico, me gusta mucho crear cosas nuevas capaz de crear, elaborar cosas nuevas e impresionantes para que sean agradables para el público. Me gusta escuchar nuevas ideas y propuestas para un mejor desempeño. Suelo ser una persona con mucha ocurrencia al decir las cosas pero con la  capacidad de aprender cosas nuevas para lograr cosas increibles. Considero que soy responsable, humilde, respetuosa y con mucha capacidad de elaborar cosas increíbles.
 
-## 💻 Conocimiento
+# 💻 Conocimiento:
 
 - **Lenguajes de Programación**: Python, JavaScript, SQL,C++,PHP, REstudio,GoogleColab.
 - **Tecnologías**: Analytics,Inteligencia Artificial, Industria 4.0. y Unity
 - **Habilidades Blandas**: Trabajo en equipo, Comunicación, Adaptabilidad, Empatia, Liderazgo, Creatividad
 
 
-# ♟️Habilidades
+# ♟️Habilidades:
 - ❤️Habilidades Blandas: Trabajo en equipo, Comunicación, Adaptabilidad, Empatia, Liderazgo, Creatividad
 - 🖌️ Diseño gráfico: Creando cosas atractivas visualmente para una experiencia agradable.
 - 💻 Desarrollo de aplicaciones: Desarrollar aplicaciones de realidad aumentada,sitios web, realidad virtual para una experiencia creativa e inmersiva.
