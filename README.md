@@ -7,7 +7,7 @@
         <ul>
             <li>Grado: Técnico Superior Universitario en Tecnologias de la Informacion Area Entornos Virtuales y Negocios Digitales</li>
             Universidad Tecnológica de Tlaxcala
-            -El Carmen Xalpatlahuaya s/n, 90513 Huamantla, Tlax.
+            <li>El Carmen Xalpatlahuaya s/n, 90513 Huamantla, Tlax.</li>
         </ul>
     
 ## 😊Acerca de mí
@@ -50,6 +50,6 @@ Soy una persona creativa, con experiencia en diseño gráfico, me gusta mucho cr
 ## 📬 Contacto
 
 Puedes contactarme en:
--**💻Correo: calvajoana66@gmail.com**
--**📞Teléfono: 241-279-2719.**
+<li>-**💻Correo: calvajoana66@gmail.com**</li>
+<li>-**📞Teléfono: 241-279-2719.**</li>
 
