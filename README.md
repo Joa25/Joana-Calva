@@ -2,10 +2,11 @@
     <h1 align="center">¡Hola Bienvenido a mi perfil profesional!👋🏼 </h1>
 </div> 
 <p align="center"><img src="![Tarjeta de presentacion joana](https://github.com/user-attachments/assets/b7cb99d9-6be6-47fd-8527-88a7204fd378)"/></p>
-#👩🏻‍💼 Información Personal
-- **Nombre**: Joana Calva Muñoz
-- **Edad**: 21 años
-- **Sexo**: Femenino
+
+##👩🏻‍💼 Información Personal:
+- **Nombre**: Joana Calva Muñoz.
+- **Edad**: 21 años.
+- **Sexo**: Femenino.
 
 # 🎓 Formación academica
 <br>
