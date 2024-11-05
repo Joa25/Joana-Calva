@@ -1,7 +1,7 @@
 <div align="center">
     <h1 align="center">¡Hola Bienvenido a mi perfil profesional!👋🏼 </h1>
 </div> 
-<p align="center"><img src="https://github.com/Joa25/Joana-Calva/blob/main/download%20(2).jpeg"/></p>
+<p align="center"><img src="https://github.com/Joa25/Joana-Calva/blob/main/JOANA%20CALVA%20MU%C3%91OZ.png"/></p>
 
 # 👩🏻‍💼 Información Personal:
 - **Nombre**: Joana Calva Muñoz.
