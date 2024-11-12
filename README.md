@@ -52,6 +52,9 @@ Me considero responsable, humilde, y respetuoso, con una gran capacidad para apr
 - **📃[Analisis de Datos]()**
   El analisis de datos es importante en un conjunto de datos para saber lo que es importante destacar, como por ejemplo el numero de ventas de un cierto producto 
   en especifico o el total de  ventas por mes o por año.
+- **📃[Videojuego en Otomí]()**
+  El analisis de datos es importante en un conjunto de datos para saber lo que es importante destacar, como por ejemplo el numero de ventas de un cierto producto 
+  en especifico o el total de  ventas por mes o por año.
 
 
 ## 📬 Contacto
