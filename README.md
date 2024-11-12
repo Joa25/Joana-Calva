@@ -30,7 +30,7 @@ Me considero responsable, humilde, y respetuoso, con una gran capacidad para apr
 
 # ♟️Habilidades:
 - ❤️Habilidades Blandas: Trabajo en equipo, Comunicación, Adaptabilidad, Empatia, Liderazgo, Creatividad
-- 🖌️ Diseño gráfico: Creando cosas atractivas visualmente para una experiencia agradable.
+- 🖌️ Diseño gráfico: Creando cosas atractivas visualmente para una experiencia agradable como banners publicitarios, videos cortos o largos,stickers.
 - 💻 Desarrollo de aplicaciones: Desarrollar aplicaciones de realidad aumentada,sitios web, realidad virtual para una experiencia creativa e inmersiva.
 - 🗒️ Analisís de datos: Usando herramientas dedicadas al analisís de datos para tener detalles exactos funcionales para la elaboracion de estadísticas.
 
@@ -49,17 +49,17 @@ Me considero responsable, humilde, y respetuoso, con una gran capacidad para apr
    En los videojuegos mostramos a un enemigo, del cual tienes que huir para poder entrar a varios niveles, o que uno te dispare y tienes que huir para poder 
    salvarte, se creo con Unity Hub como un video juego.
 
-- **📃[Analisis de Datos]()**
+- **📃[Analisis de Datos](https://github.com/Joa25/Joana-Calva/blob/main/analisis%20de%20datos.pdf)**
   El analisis de datos es importante en un conjunto de datos para saber lo que es importante destacar, como por ejemplo el numero de ventas de un cierto producto 
-  en especifico o el total de  ventas por mes o por año.
-- **📃[Videojuego en Otomí]()**
-  El analisis de datos es importante en un conjunto de datos para saber lo que es importante destacar, como por ejemplo el numero de ventas de un cierto producto 
-  en especifico o el total de  ventas por mes o por año.
+  en especifico o el total de  ventas por mes o por año, por ejemplo la venta de comida rapida como en este caso.
+  
+- **📃[Videojuego en Otomí](https://drive.google.com/drive/folders/10CZbZN6wSjRNHFoQFI_AWfghxlhI1LHO)**
+  La creación de este videojuego fue basado en la permanencia de el idioma Otomí en el estado de Tlaxcala, fue creado con el softaware Flutter.
 
 
 ## 📬 Contacto
 
 Puedes contactarme en:
-<li>-**💻Correo: calvajoana66@gmail.com**</li>
-<li>-**📞Teléfono: 241-279-2719.**</li>
+<li>-💻Correo: calvajoana66@gmail.com</li>
+<li>-📞Teléfono: 241-279-2719.</li>
 
